@@ -1,0 +1,16 @@
+@use './globals/forwards';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: forwards.$paper-300;
+  color: forwards.$ink-500;
+}
+
+

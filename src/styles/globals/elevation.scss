@@ -1,0 +1,15 @@
+$shadow-warm-1: 0 4px 10px rgba(120, 40, 30, 0.25);
+$shadow-warm-2: 0 8px 20px rgba(120, 40, 30, 0.35);
+$shadow-warm-3: 0 12px 32px rgba(120, 40, 30, 0.45);
+
+.elevation-1 {
+  box-shadow: $shadow-warm-1;
+}
+
+.elevation-2 {
+  box-shadow: $shadow-warm-2;
+}
+
+.elevation-3 {
+  box-shadow: $shadow-warm-3;
+}
