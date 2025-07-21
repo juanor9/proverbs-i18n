@@ -1,0 +1,15 @@
+{
+  "card": {
+    "title": "{proverb}",
+    "language": "Language",
+    "literal": "Traducción literal",
+    "cultural_equivalents": "Equivalentes culturales:",
+    "context": "Contexto",
+    "region": "Región",
+    "category": "Categoría",
+    "usage": "Uso",
+    "usage_text": "{{usage}}",
+    "did_you_know": "¿Sabías qué...?",
+    "fact": "{{fact}}"
+  }
+}

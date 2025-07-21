@@ -1,0 +1,26 @@
+* {
+  font-family: 'Charis SIL', serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+[lang='ja'] {
+  font-family: 'Shippori Mincho B1', serif;
+  line-height: 1.7;
+  font-size: 1.4rem;
+}
+
+ul {
+  list-style: none;
+}
+
+i {
+  font-style: italic;
+}
+
+i[lang='ja'] {
+  display: inline-block;
+  transform: skewX(-6deg);
+}
